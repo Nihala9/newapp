@@ -37,7 +37,7 @@ const Product = () => {
                       <CardActions>
                           <Button size="small">{val.rating.rate}</Button>
                           <Button size="small">{val.price}</Button>
-                          </CardActions>
+                          </CardActions> 
                   </Card>
               )
           })}
